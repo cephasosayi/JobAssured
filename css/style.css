@@ -1361,7 +1361,7 @@ footer
 -------------------------------*/
 #section-footer {
   padding: 90px 0px 60px 0px;
-  background: url("../images/bg/Map.png") no-repeat top right;
+  background: url("../assets/img/Map.png") no-repeat top right;
 }
 
 .footer-widget h2 {
@@ -1528,7 +1528,7 @@ p {
 #footer {
   padding: 90px 0px 60px 0px;
   text-align: center;
-  background: url("../images/bg/map2.png");
+  background: url("../assets/img/map2.png");
 }
 .pricing-table .pricing-feature li {
   margin: 3px;
