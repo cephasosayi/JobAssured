@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-  color: #ee2d50;
+  color: #12126E;
 }
 
 a,
@@ -109,7 +109,7 @@ Common
 }
 
 .read-more {
-  color: #ee2d50;
+  color: #12126E;
   transition: all .7s ease;
   text-transform: uppercase;
   letter-spacing: .5px;
@@ -133,7 +133,7 @@ Common
 }
 
 .text-color {
-  color: #ee2d50;
+  color: #12126E;
 }
 
 /*-------------------------------
@@ -149,9 +149,9 @@ buttons
 }
 
 .btn-hero {
-  background: #ee2d50;
+  background: #12126E;
   color: #ffffff;
-  border-color: #ee2d50;
+  border-color: #12126E;
 }
 
 .btn-hero:hover {
@@ -161,18 +161,18 @@ buttons
 }
 
 .btn-outline-hero:hover {
-  border-color: #ee2d50;
+  border-color: #12126E;
 }
 
 .btn-hero-trans {
   background: transparent;
   color: #2c2c2c;
-  border-color: #ee2d50;
+  border-color: #12126E;
 }
 
 .btn-hero-trans:hover {
-  background: #ee2d50;
-  border-color: #ee2d50;
+  background: #12126E;
+  border-color: #12126E;
   color: #ffffff;
 }
 
@@ -226,7 +226,7 @@ header
 .main-navigation .btn {
   background: transparent;
   color: #2c2c2c;
-  border-color: #ee2d50;
+  border-color: #12126E;
 }
 
 .extra-nav {
@@ -315,7 +315,7 @@ banner
   top: 0px;
   width: 30px;
   height: 1px;
-  background: #ee2d50;
+  background: #12126E;
 }
 
 .hero-slider h1 {
@@ -367,7 +367,7 @@ banner
 }
 
 .hero-slider .slick-dots li.slick-active button::before {
-  color: #ee2d50;
+  color: #12126E;
   opacity: 1;
 }
 
@@ -379,7 +379,7 @@ About Content
 }
 
 .service-style-2 span {
-  color: #ee2d50;
+  color: #12126E;
   font-size: 32px;
   font-weight: 700;
   line-height: 32px;
@@ -417,7 +417,7 @@ CTA-2
   border-radius: 100%;
   background: rgba(255, 255, 255, 0.9);
   padding-top: 40px;
-  color: #ee2d50;
+  color: #12126E;
 }
 
 /*-------------------------------
@@ -474,7 +474,7 @@ Feature
 
 #feature .feature i {
   font-size: 60px;
-  color: #ee2d50;
+  color: #12126E;
 }
 
 #feature .feature:hover {
@@ -514,7 +514,7 @@ Main Content
 
 .intro-icon img {
   max-width: 45px;
-  color: #ee2d50;
+  color: white;
 }
 
 .intro-icon {
@@ -523,7 +523,7 @@ Main Content
   text-align: center;
   border-radius: 50px 50px 50px 50px;
   padding-top: 15px;
-  background: #FCD7D7;
+  background: #12126E;
   margin-bottom: 25px;
   margin-left: 75px;
   margin-top: 10px;
@@ -551,7 +551,7 @@ Main Content
   left: 0px;
   font-size: 30px;
   margin-left: 20px;
-  color: #ee2d50;
+  color: #12126E;
   display: none;
 }
 
@@ -633,7 +633,7 @@ Main Content
 
 .service-block i {
   font-size: 100px;
-  color: #ee2d50;
+  color: #12126E;
   display: inline-block;
   background: transparent;
   padding: 20px;
@@ -791,7 +791,7 @@ Main Content
 
 .stat-content ul li i {
   margin-right: 15px;
-  color: #ee2d50;
+  color: #12126E;
 }
 
 .counter-stat {
@@ -937,17 +937,17 @@ Main Content
 }
 
 .pricing-table:hover {
-  border-top: 3px solid #ee2d50;
+  border-top: 3px solid #12126E;
 }
 
 .pricing-table:hover a.btn-outline-hero {
-  background: #ee2d50;
+  background: #12126E;
   color: #ffffff;
-  border-color: #ee2d50;
+  border-color: #12126E;
 }
 
 .pricing-table.active {
-  border-top: 3px solid #ee2d50;
+  border-top: 3px solid #12126E;
 }
 
 /* .pricing-feature.basic li:nth-child(2n) {
@@ -973,7 +973,7 @@ Main Content
 }
 
 .single-blog .learn-more {
-  color: #ee2d50;
+  color: #12126E;
 }
 
 .blog-meta {
@@ -1065,7 +1065,7 @@ inner pages
 .page-banner .banner-padding ul li:last-child {
   position: relative;
   padding-left: 20px;
-  color: #ee2d50;
+  color: #12126E;
 }
 
 .page-banner .banner-padding ul li:last-child:before {
@@ -1176,7 +1176,7 @@ blockquote.blog-quote {
   padding: 30px;
   line-height: 40px;
   margin-bottom: 40px;
-  border-left: 2px solid #ee2d50;
+  border-left: 2px solid #12126E;
 }
 
 .comment-box {
@@ -1270,7 +1270,7 @@ blockquote.blog-quote {
 
 .download a i {
   margin-right: 10px;
-  color: #ee2d50;
+  color: #12126E;
 }
 
 .form-control {
@@ -1280,7 +1280,7 @@ blockquote.blog-quote {
 
 .form-control:focus, .form-control:hover {
   box-shadow: none;
-  border-color: #ee2d50;
+  border-color: #12126E;
 }
 
 .contact-info-block {
@@ -1289,7 +1289,7 @@ blockquote.blog-quote {
 
 .contact-info-block h5 {
   margin-bottom: 20px;
-  color: #ee2d50;
+  color: #12126E;
 }
 
 .contact-info-block ul li {
