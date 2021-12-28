@@ -374,7 +374,7 @@ banner
 
 .hero-section {
   padding: 70px 0px;
-  @exclude .overlay;
+  /* @exclude .overlay; */
 }
 
 .hero-slider .slick-dots {
