@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-  color: #12126E;
+  color: #FF3D22;
 }
 
 a,
@@ -109,7 +109,7 @@ Common
 }
 
 .read-more {
-  color: #12126E;
+  color: #FF3D22;
   transition: all .7s ease;
   text-transform: uppercase;
   letter-spacing: .5px;
@@ -133,7 +133,7 @@ Common
 }
 
 .text-color {
-  color: #12126E;
+  color: #FF3D22;
 }
 
 /*-------------------------------
@@ -149,9 +149,9 @@ buttons
 }
 
 .btn-hero {
-  background: #12126E;
+  background: #FF3D22;
   color: #ffffff;
-  border-color: #12126E;
+  border-color: #FF3D22;
 }
 
 .btn-hero:hover {
@@ -161,18 +161,18 @@ buttons
 }
 
 .btn-outline-hero:hover {
-  border-color: #12126E;
+  border-color: #FF3D22;
 }
 
 .btn-hero-trans {
   background: transparent;
   color: #2c2c2c;
-  border-color: #12126E;
+  border-color: #FF3D22;
 }
 
 .btn-hero-trans:hover {
-  background: #12126E;
-  border-color: #12126E;
+  background: #FF3D22;
+  border-color: #FF3D22;
   color: #ffffff;
 }
 
@@ -226,7 +226,7 @@ header
 .main-navigation .btn {
   background: transparent;
   color: #2c2c2c;
-  border-color: #12126E;
+  border-color: #FF3D22;
 }
 
 .extra-nav {
@@ -315,7 +315,7 @@ banner
   top: 0px;
   width: 30px;
   height: 1px;
-  background: #12126E;
+  background: #FF3D22;
 }
 
 .hero-slider h1 {
@@ -339,9 +339,11 @@ banner
 }
 
 .bg-cover {
+  background: rgba(0,0,0) url(https://images.pexels.com/photos/5598290/pexels-photo-5598290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
+
 }
 
 .slick-slide {
@@ -363,11 +365,11 @@ banner
 
 .hero-slider .slick-dots li button::before {
   color: #ffffff;
-  opacity: .6;
+  opacity: .4;
 }
 
 .hero-slider .slick-dots li.slick-active button::before {
-  color: #12126E;
+  color: #FF3D22;
   opacity: 1;
 }
 
@@ -379,7 +381,7 @@ About Content
 }
 
 .service-style-2 span {
-  color: #12126E;
+  color: #FF3D22;
   font-size: 32px;
   font-weight: 700;
   line-height: 32px;
@@ -392,7 +394,7 @@ CTA-2
 -------------------------------*/
 #cta {
   padding: 120px 0px;
-  background: url("../images/bg/5.jpg") no-repeat 0% 30%;
+  background: url("../assets/img/ca.png") no-repeat 0% 30%;
   background-size: cover;
 }
 
@@ -417,7 +419,7 @@ CTA-2
   border-radius: 100%;
   background: rgba(255, 255, 255, 0.9);
   padding-top: 40px;
-  color: #12126E;
+  color: #FF3D22;
 }
 
 /*-------------------------------
@@ -474,7 +476,7 @@ Feature
 
 #feature .feature i {
   font-size: 60px;
-  color: #12126E;
+  color: #FF3D22;
 }
 
 #feature .feature:hover {
@@ -523,7 +525,7 @@ Main Content
   text-align: center;
   border-radius: 50px 50px 50px 50px;
   padding-top: 15px;
-  background: #12126E;
+  background: #FF3D22;
   margin-bottom: 25px;
   margin-left: 75px;
   margin-top: 10px;
@@ -551,7 +553,7 @@ Main Content
   left: 0px;
   font-size: 30px;
   margin-left: 20px;
-  color: #12126E;
+  color: #FF3D22;
   display: none;
 }
 
@@ -633,7 +635,7 @@ Main Content
 
 .service-block i {
   font-size: 100px;
-  color: #12126E;
+  color: #FF3D22;
   display: inline-block;
   background: transparent;
   padding: 20px;
@@ -791,7 +793,7 @@ Main Content
 
 .stat-content ul li i {
   margin-right: 15px;
-  color: #12126E;
+  color: #FF3D22;
 }
 
 .counter-stat {
@@ -937,17 +939,17 @@ Main Content
 }
 
 .pricing-table:hover {
-  border-top: 3px solid #12126E;
+  border-top: 3px solid #FF3D22;
 }
 
 .pricing-table:hover a.btn-outline-hero {
-  background: #12126E;
+  background: #FF3D22;
   color: #ffffff;
-  border-color: #12126E;
+  border-color: #FF3D22;
 }
 
 .pricing-table.active {
-  border-top: 3px solid #12126E;
+  border-top: 3px solid #FF3D22;
 }
 
 /* .pricing-feature.basic li:nth-child(2n) {
@@ -973,7 +975,7 @@ Main Content
 }
 
 .single-blog .learn-more {
-  color: #12126E;
+  color: #FF3D22;
 }
 
 .blog-meta {
@@ -1065,7 +1067,7 @@ inner pages
 .page-banner .banner-padding ul li:last-child {
   position: relative;
   padding-left: 20px;
-  color: #12126E;
+  color: #FF3D22;
 }
 
 .page-banner .banner-padding ul li:last-child:before {
@@ -1176,7 +1178,7 @@ blockquote.blog-quote {
   padding: 30px;
   line-height: 40px;
   margin-bottom: 40px;
-  border-left: 2px solid #12126E;
+  border-left: 2px solid #FF3D22;
 }
 
 .comment-box {
@@ -1270,7 +1272,7 @@ blockquote.blog-quote {
 
 .download a i {
   margin-right: 10px;
-  color: #12126E;
+  color: #FF3D22;
 }
 
 .form-control {
@@ -1280,7 +1282,7 @@ blockquote.blog-quote {
 
 .form-control:focus, .form-control:hover {
   box-shadow: none;
-  border-color: #12126E;
+  border-color: #FF3D22;
 }
 
 .contact-info-block {
@@ -1289,7 +1291,7 @@ blockquote.blog-quote {
 
 .contact-info-block h5 {
   margin-bottom: 20px;
-  color: #12126E;
+  color: #FF3D22;
 }
 
 .contact-info-block ul li {
@@ -1459,24 +1461,7 @@ Responsive
     font-size: 18px;
     padding: 5px;
   }
-  .subscribe-form .form-control {
-    height: 50px;
-    margin: 30px 0px;
-    position: relative;
-    padding-left: 20px;
-  }
-  .subscribe-form a.btn {
-    position: absolute;
-    content: "";
-    top: 87px;
-    right: 20px;
-    border-radius: 5px;
-  }
-  .hero-slider h1 {
-    font-size: 36px;
-    line-height: 42px;
-    padding: 10px;
-  } 
+ 
 h1, .h1,
 h2, .h2,
 h3, .h3,
@@ -1487,39 +1472,117 @@ h6, .h6 {
   color: #283a5e;
   font-family:'Play', sans-serif;
 }
+.hero-slider h1 {
+  font-size: 70px;
+  line-height: 80px;
+  color: #ffffff;
+}
+.bg-cover {
+  background: rgba(0,0,0) url(https://images.pexels.com/photos/5598290/pexels-photo-5598290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-size:contain;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  height: 150pxyyyyy;
+  width: 100%;
+}
 
+.hero-slider .btn-outline-hero {
+  color: #ffffff;
+}
+
+.overlay {
+  position: absolute;
+  content: "";
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background: rgba(40, 58, 94, 0.9);
+}
+
+.bg-cover {
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background: rgba(0,0,0) url(https://images.pexels.com/photos/5598290/pexels-photo-5598290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  height: 450px;
+  width: 100%;
+}
+.banner-padding{
+  margin-top: -150px;
+}
+.btn-containe{
+  width: 100vw;
+}
+/* .slick-slide {
+  height: 80%;
+} */
+.bb{
+  display: flex;
+  width: 100%;
+  
+  
+}
+.bb1{
+  flex: 1;
+  width: 40%;
+
+}
+.bb2{
+ 
+  display: none;
+
+}
+.hero-section {
+  padding: 40px 0px;
+  /* @exclude .overlay; */
+}
+
+.hero-slider .slick-dots {
+  bottom: 40px;
+}
+
+.hero-slider .slick-dots li button::before {
+  font-size: 8px;
+}
 h1, .h1 {
-  font-size: 31px;
-  width: 100%;  
+  font-size: 28px;
+  /* width: 100%;   */
   text-align-last: center;
   justify-content: center;
   align-items: center;
 
 }
-
-
+.cl{
+  font-size: 14px;
+}
+.hero-slider h1 {
+  font-size: 30px;
+  line-height: 30px;
+}
+}
 h2, .h2 {
-  font-size: 26px;
+  font-size: 22px;
   text-align-last: center;
   justify-content: center;
   align-items: center;
 
 }
 h3, .h3 {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 h4, .h4 {
-  font-size: 22px;
+  font-size: 16px;
   line-height: 30px;
 }
 
 h5, .h5 {
-  font-size: 20px;
+  font-size: 14px;
 }
 
 h6, .h6 {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 p {
@@ -1531,36 +1594,22 @@ p {
   text-align: center;
   background: url("../assets/img/map2.png");
 }
-.pricing-table .pricing-feature li {
-  margin: 3px;
-  font-size: 16px;
-  color: #828893;
-}
-.form-control {
-  border-color: #e8e8e8;
-}
-.ab{
-  text-align: center;
-}
+
 .lead {
   line-height: 30px;
 }
+.abt{
+  width:100%;
+}
 .navbar{
-  height: 100px;
+  height: 80px;
 }
 .navI{
-  margin-top: -40px;
+  margin-top: -60px;
 }
 .banner-main{
   margin-top: -40px;
 }
-.intro-icon {
-  margin-left: 120px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-  }
-
 
 @media (max-width: 480px) {
   #cta .cta-block h2 {
@@ -1594,5 +1643,25 @@ p {
   }
 }
 
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
 
+.my-float{
+	margin-top:16px;
+}
+.float:hover{
+  color: white;
+}
 /*# sourceMappingURL=maps/style.css.map */
